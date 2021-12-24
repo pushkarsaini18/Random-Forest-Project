@@ -6,8 +6,15 @@ Data contain the information about user (Graduation Status, Maritial Status, Tax
 
 ## Steps-Involve 
 -> Perform Data pre-prossing 
--> check for normality in data 
+
+-> check for normality in data
+
 -> Correlation
+
 -> label encoding
+
 -> Model building
+
 -> Finding important features
+
+-> Apply on new data set 
